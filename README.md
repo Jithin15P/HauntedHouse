@@ -3,6 +3,8 @@
 This project is a detailed 3D haunted house scene built using [Three.js](https://threejs.org/). It features interactive lighting, realistic textures, atmospheric fog, animated ghosts, and customizable parameters via a GUI.
 
 ---
+##   Credits
+bruno simon-French creative Developer
 
 ##  Features
 
@@ -47,8 +49,11 @@ This project is a detailed 3D haunted house scene built using [Three.js](https:/
 npm install
 npm run dev
 
-##   Credits
-bruno simon-French creative Developer
+---
+
+
+
+
 
 
  
