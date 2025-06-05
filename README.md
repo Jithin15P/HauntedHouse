@@ -4,7 +4,7 @@ This project is a detailed 3D haunted house scene built using [Three.js](https:/
 
 ---
 ##   Credits
-bruno simon-French creative Developer
+Bruno Simon-French creative Developer
 
 ##  Features
 
